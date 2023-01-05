@@ -88,7 +88,7 @@ DATABASES = {
         # 'NAME': 'db_ISDL',
         'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': 'nxtr1L9GZm9QylwTMpX1',
+        'PASSWORD': 'PJXcoXgeD0m2OYZkX7tA',
         'HOST': 'containers-us-west-118.railway.app',
         'PORT':'6698',
     }
